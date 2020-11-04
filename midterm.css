@@ -1,0 +1,135 @@
+body{
+    font-family: "타이포_쌍문동 스텐실", "나눔고딕", "고딕";
+}
+
+header{
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fff;
+    padding: 10px;
+    overflow: hidden;
+    
+}
+
+header h1{
+    width: 100%;
+    float: left;
+    margin-left: 15px;
+    color: #b42e66;
+    text-align: center;
+    font-size:xxx-large;
+    font-family: "타이포_쌍문동 스텐실";
+}
+
+header nav{
+    width: 60%
+    float: right;
+    font-size: large;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline;
+    float: center;
+    margin: 15px;
+}
+
+nav ul li a{
+    color: #b42e66;
+    text-decoration: none;
+    font-family: "THE인호진"
+}
+
+p{
+    font-size: 13px;
+    line-height: 20px;
+}
+
+
+
+footer{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    padding: 10px;
+    background-color: #bc0048;
+    color: white;
+    text-align: center;
+    font-family: "나눔고딕";
+}
+
+ul{
+    list-style-type: circle;
+}
+
+@font-face{
+    font-family:NanumSquare_acB;
+    src:url('NanumSquare_acB.ttf');
+    font-weight:normal;
+}
+
+@font-face{
+    font-family:DXAWM-KSCpc-EUC-H;
+    src:url('DXAWM-KSCpc-EUC-H.ttf');
+    font-weight:bold;
+}
+
+@font-face{
+    font-family:DXUnigothicStd-30;
+    src:url('DXUnigothicStd-30.ttf');
+    font-weight:bolder;
+}
+
+header {
+    font-family: NanumSquare_acB;
+}
+body{
+    font-family: NanumSquare_acB;
+}
+
+
+h1{
+    font-variant: small-caps;
+    font-size: medium;
+    text-align: center
+}
+
+.shadow1{
+    text-shadow: 2px 2px 10px #f250f8;
+    font-size: medium;
+    text-align: center
+}
+
+.shadow2{
+    text-shadow: 0px -2px 10px #a7a7e6, -1px -1px 10px #8d75ef;
+    font-size: medium;
+    text-align: center
+}
+
+.shadow3{
+    text-shadow: 0px 0px 3px #626262, 0px -5px 4px #ff3, 2px -10px 6px #fd3, -2px -15px 11px #f80, 2px -19px 18px #f20;
+    font-size: medium;
+    text-align: center;
+}
+table{
+    width: 400px;
+    border:1px solid black;
+    margin:auto;
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
