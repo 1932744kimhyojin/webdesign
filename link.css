@@ -1,0 +1,70 @@
+
+a {
+    text-decoration: none;
+    color: darksalmon;
+    font-size: large;
+}
+
+h1{
+    padding: 30px;
+    overflow: hidden;
+    font-size: xx-large;
+    color: #a2003e;
+    font-family: "타이포_쌍문동 스텐실"
+}
+
+
+a:visited{
+    color: palevioletred;
+
+}
+
+p{
+    font-family: "배달의민족 한나는 열한살"
+}
+
+a{
+    font-family: "배달의민족 한나는 열한살"
+}
+
+div{
+     font-family: "나눔스퀘어_ac"
+}
+
+a:active{
+    color: darkblue;
+}
+
+a:target {
+    background-color: #c795a8;
+    color:#fff;
+}
+
+#base64 {
+width: 600px;
+height: 600px;
+background: 
+}
+
+
+#description {
+    height: 60px;
+}
+
+#star {
+    width: 70px;
+    padding: 10px;
+}
+
+#star:hover{
+    opacity: 0.5;
+}
+
+#content{
+    border: 7px solid #d6a9b4;
+    width: 300px;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    margin: 0.5em;
+}

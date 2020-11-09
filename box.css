@@ -1,0 +1,72 @@
+
+.link_frame {
+    width:800px;
+    height: 500px;
+    border:none;
+    border: 1px solid;
+    padding-left: 10px;
+}
+
+img{
+    width: 200px;
+}
+
+h1{
+    padding: 35px;
+    overflow: hidden;
+    font-size: xxx-large;
+    color: #a2003e;
+    font-family: "배달의민족 한나는 열한살"
+}
+
+h2{
+    padding: 10px;
+    overflow: hidden;
+    font-size: large;
+    color: #be6792;
+    font-family: "나눔스퀘어_ac"
+}
+
+h3{
+    padding: 10px;
+    overflow: hidden;
+    font-size: x-large;
+    color: #a2003e;
+    font-family: "배달의민족 한나는 열한살"
+}
+
+
+p{
+    overflow: hidden;
+    font-size: medium;
+    color: #000000;
+    font-family: "나눔스퀘어_ac"
+}
+
+.img_border{
+    width: 300px;
+    height: 400px;
+    border:30px solid;
+    border-image-source: url("frame.png");
+    border-image-slice: 60;
+    border-image-width: 50px;
+    border-image-repeat: repeat;
+    font-family: "나눔스퀘어_ac"
+}
+
+
+a:link{
+   font-family: "상상토끼 꽃길"
+    
+}
+
+a:link, a:active{
+    color: #e5ae64;
+    text-decoration: none;
+    border-bottom-width: 1.6px;
+}
+
+a:hover, a:active{
+    color:#ff7600;
+    border-bottom-style: dashed;
+}

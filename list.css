@@ -1,0 +1,89 @@
+p {
+    color: #96002e;
+    width: 400px;
+}
+
+h1{
+    padding: 10px;
+    font-size: xx-large;
+    color: #a2003e;
+    font-family: "타이포_쌍문동 스텐실"
+}
+
+.list_description {
+    border-bottom: 1px solid;
+}
+
+ul li {
+    list-style:circle}
+
+
+.prize li {
+   list-style: none;
+}
+
+.prize li:nth-child(3n+1) {
+    background: url("bluecolor.jpg") no-repeat;
+    background-size: 20px;
+    padding: 0 0 3px 25px;
+    color: darkblue;
+}
+
+.prize li:nth-child(3n+2) {
+    background: url("purplecolor.jpg") no-repeat;
+    background-size: 20px;
+    padding: 0 0 3px 25px;
+    color: purple;
+}
+
+.prize li:nth-child(3n+3) {
+    background: url("beigecolor.jpg") no-repeat;
+    background-size: 20px;
+    padding: 0 0 3px 25px;
+    color: burlywood;
+}
+
+
+.style_dl {
+    width: 400px;
+    height: 100px;
+    overflow: auto;
+}
+
+.style_dl dt {
+    float: left;
+}
+
+.style_dl dd {
+    margin: 0 0 1em 0;
+}
+
+p{
+    font-size: 18px;
+    line-height: 30px;
+    font-family: "배달의민족 한나는 열한살"
+}
+
+
+ul{
+    list-style-type: none;
+    font-family: "나눔스퀘어_ac"
+}
+
+ol{
+    list-style-type: decimal;
+    font-family: "나눔스퀘어_ac"
+}
+
+
+dt{
+    list-style-type: none;
+    font-family: "배달의민족 한나는 열한살"
+}
+
+dl{
+    list-style-type: none;
+    font-family: "나눔스퀘어_ac"
+}
+
+

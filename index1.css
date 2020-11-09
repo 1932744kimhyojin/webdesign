@@ -1,0 +1,52 @@
+a:link{
+    color: rgba(190, 44, 94, 0.81);
+}
+
+h1{
+    padding: 20px;
+    overflow: hidden;
+    font-size: xxx-large;
+    color: #a2003e;
+    font-family: "타이포_쌍문동 스텐실"
+}
+
+ul{
+    font-family: "배달의민족 한나는 열한살"
+}
+
+a:visited{
+    color: #9f2f6f
+}
+
+ul{
+    list-style-type: none;
+    font-size: large;
+}
+
+
+a:link, a:active{
+    color: #848484;
+    text-decoration: none;
+    border-bottom-width: 2px;
+    border-bottom-style: dashed;
+}
+
+a:hover, a:active{
+    color:#ff9cb7;
+    border-bottom-style: solid;
+}
+
+footer{
+    font-size: small;
+    font-family: "상상토끼 꽃길"
+    
+}
+
+#content{
+    border: 8px solid #d6a9b4;
+    width: 300px;
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    margin: 0.5em;
+}
